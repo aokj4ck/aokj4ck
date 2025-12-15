@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔨 I’m currently working on
+    - [Bike Index iOS](https://github.com/bikeindex/bike_index_ios)
+- 🌱 I’m currently learning
+    - Rails 💎
+- 👯 I’m looking to collaborate on
+    - Contributions to [Bike Index](https://github.com/bikeindex) are always welcome!
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: I love building apps 📲
